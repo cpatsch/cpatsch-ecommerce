@@ -1,0 +1,65 @@
+.login {
+    padding-top: 40px;
+
+    display: flex;
+    justify-content: center;
+}
+
+.login-panel {
+    width: fit-content;
+    padding: 30px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    border-style: solid;
+    border-radius: 15px;
+    border-color: lightgray;
+}
+
+.login-header {
+    padding-bottom: 40px;
+
+    font-size: 25px;
+}
+
+.form-item {
+    padding-bottom: 20px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form {
+    width: 300px;
+}
+
+.form-label {
+    padding-bottom: 8px;
+}
+
+.form-input {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 4px;
+    padding-right: 4px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form-button {
+    padding: 8px;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+
+    background-color: orange;
+
+    border-style: hidden;
+    border-radius: 12px;
+}
+
+.forgot-password {
+    padding-top: 5px;
+}
