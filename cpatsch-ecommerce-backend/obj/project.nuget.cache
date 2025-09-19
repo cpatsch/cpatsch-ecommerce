@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GucnoE4gYIM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Creleb\\Documents\\Development\\Personal\\Applications\\cpatsch-ecommerce\\cpatsch-ecommerce-backend\\cpatsch-ecommerce-backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Creleb\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.6\\microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "C:\\Users\\Creleb\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

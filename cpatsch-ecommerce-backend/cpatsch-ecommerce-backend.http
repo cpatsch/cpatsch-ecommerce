@@ -1,0 +1,6 @@
+@cpatsch_ecommerce_backend_HostAddress = http://localhost:5225
+
+GET {{cpatsch_ecommerce_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
